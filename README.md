@@ -2,7 +2,7 @@
 
 
 - 💻 Atualmente estou trabalhando como analista de sitema
-- 🔭 No momento estou aprendendo React...
+- 💡 No momento estou aprendendo React...
 - 🕮 Aprendendo mais sobre React, UI Design, MongoDB
 
 
@@ -45,6 +45,9 @@
   ![VS Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)
   ![Postman](https://img.shields.io/badge/-Postman-333333?style=for-the-badge&logo=postman)
   
+  
+  
+  ### :earth_americas: Contact:
   
   <div>
   <a href="https://linkedin.com/in/josé-antônio-capucho/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
