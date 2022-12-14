@@ -1,4 +1,4 @@
-### Olá!
+### Olá! Seja bem vindo ao meu Github
 
 - 👦🏻 Meu nome é José Antônio.
 - 🌎 Moro no interior de ES, em Santa Maria de Jetibá (Brasil).
@@ -6,7 +6,7 @@
 - 🕮 Aprendendo mais sobre React, UI Design, MongoDB
 - 👨🏼‍💻 Atualmente estou trabalhando como analista de sitema.
 - 🚀 Sempre em constante aprendizado!
-- 🎯 A meta de hoje é ser melhor que ontem, não melhor que ninguém.
+- 🎯 A meta de hoje é ser melhor que ontem.
 
 
 
@@ -48,19 +48,10 @@
   ![VS Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)
   ![Postman](https://img.shields.io/badge/-Postman-333333?style=for-the-badge&logo=postman)
   
-  <div style="display: inline_block"><br>
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-</div>
   
+  ##
   
-  
-  ### :earth_americas: Contact:
+  ### Contato:
   
   <div>
   <a href="https://linkedin.com/in/josé-antônio-capucho/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
