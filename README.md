@@ -5,10 +5,6 @@
 - 💡 No momento estou aprendendo React
 - 👨🏼‍💻 Atualmente estou trabalhando como analista de sitema.
 
-##
-
-- 🚀 Sempre em constante aprendizado!
-- 🎯 A meta de hoje é ser melhor que ontem.
 
 
 ##
@@ -60,3 +56,8 @@
   <a href="https://linkedin.com/in/josé-antônio-capucho/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   </a>
 </div>
+
+##
+
+- 🚀 Sempre em constante aprendizado!
+- 🎯 A meta de hoje é ser melhor que ontem.
