@@ -59,5 +59,5 @@
 
 ##
 
-- 🚀 Sempre em constante aprendizado!
-- 🎯 A meta de hoje é ser melhor que ontem!
+- 🔎 Sempre em constante aprendizado!
+- 🚀 A meta de hoje é ser 1% melhor que ontem!
