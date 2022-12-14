@@ -5,6 +5,8 @@
 - 💡 No momento estou aprendendo React
 - 👨🏼‍💻 Atualmente estou trabalhando como analista de sitema.
 
+##
+
 - 🚀 Sempre em constante aprendizado!
 - 🎯 A meta de hoje é ser melhor que ontem.
 
