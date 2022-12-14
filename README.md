@@ -21,3 +21,26 @@
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=for-the-badge&logo=bootstrap)
   ![Styled Components](https://img.shields.io/badge/-Styled%20Components-333333?style=for-the-badge&logo=styled-components&logoColor=white)
   
+
+**Backend**
+
+  ![NodeJS](https://img.shields.io/badge/-NodeJS-333333?style=for-the-badge&logo=node.js)
+  ![Express](https://img.shields.io/badge/-Express-333333?style=for-the-badge&logo=express)
+
+  
+**Databases**
+
+  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=for-the-badge&logo=mysql)
+  ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=for-the-badge&logo=mongodb)
+  
+  
+  **Versioning & Deploy**
+
+  ![Git](https://img.shields.io/badge/-Git-333333?style=for-the-badge&logo=git)
+  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=for-the-badge&logo=github)
+
+  
+**Business Tools**
+
+  ![VS Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)
+  ![Postman](https://img.shields.io/badge/-Postman-333333?style=for-the-badge&logo=postman)
