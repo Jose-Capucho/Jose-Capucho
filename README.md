@@ -60,4 +60,4 @@
 ##
 
 - 🚀 Sempre em constante aprendizado!
-- 🎯 A meta de hoje é ser melhor que ontem.
+- 🎯 A meta de hoje é ser melhor que ontem!
