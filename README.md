@@ -3,7 +3,7 @@
 - 👦🏻 Meu nome é José Antônio.
 - 🌎 Moro no interior de ES, em Santa Maria de Jetibá (Brasil).
 - 💡 No momento estou aprendendo React.
-- 👨🏼‍💻 Atualmente estou trabalhando como analista de sitema.
+- 👨🏼‍💻 Atualmente estou buscando uma oportunidade de trabalho.
 
 
 
